@@ -33,4 +33,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-Feel free to update the links (like the GitHub repo link or demo link) with your actual information!
